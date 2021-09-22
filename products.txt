@@ -1,0 +1,4 @@
+apples,1.65,200
+bananas,1.85,50
+pears,2.30,75
+grapefruit,3.99,30
